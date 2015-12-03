@@ -7,14 +7,14 @@ I am now looking to continue developing alongside like-minded individuals, in an
 ### Core Competencies
 
 #### Software Development
-My love of coding began with self-directed online tutorials, but I wanted to accelerate my learning, and Makers Academy offered me that opportunity by distilling key principles and industry best practices into an intensive bootcamp.
+My love of coding began with self-directed online tutorials, but I wanted to accelerate my learning, and Makers Academy offered me that opportunity by distilling key principles and industry best practices into an intensive bootcamp.  *Follow links below to my github repositories.*
 
 - Ruby and JavaScript have given me an introduction to reasoning like a programmer
-- Rails and Angular have opened my eyes to the potential for scaffolding apps using frameworks
+- [Rails] (https://github.com/timhyson/timstagram) and [Angular] (https://github.com/timhyson/ReadingList) have opened my eyes to the potential for scaffolding apps using frameworks
 - RSpec and Jasmine have given me direction and confidence in the accuracy of my code
 
 #### Communicating with clarity
-After graduation, I was selected to be an Alumni Helper; to provide a first point of contact for students encountering technical problems.  This involves explaining complex ideas in simple terms, reinforcing my understanding in the process.
+After graduation, I was selected by Makers Academy to provide a first point of contact for students encountering technical problems.  This involves explaining complex ideas in simple terms, reinforcing my understanding in the process.
 
 #### Problem solving
 At what point does attention to detail become OCD?!  I have a logical and creative mindset, and helping others who are blocked has given me experience of reading and understanding someone else's code; an essential skill for bug hunting.
@@ -38,7 +38,7 @@ I'm quick to adapt to different approaches.  And learning to feel comfortable wi
 - Included 12 months working as a technical translator in France
 
 ## Work
-**Freelance camera technician** (2003 - 2015)  
+**Freelance camera technician** (2003 - 2015)  [(list of credits on IMDB.com)](http://www.imdb.com/name/nm2575314/?ref_=fn_al_nm_1)  
 Television dramas and feature films, from BBC and ITV to MGM and Universal.  Though seemingly unrelated, many commonalities exist - a team of individuals with a variety of specialisms collaborating on a project, adapting to change, troubleshooting issues before they arise and resolving them if they do.
 
 **Makers Academy** (Oct 2015 - present)    
