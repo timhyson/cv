@@ -4,7 +4,7 @@ A junior developer who's embarking on a new career after 12 successful years in 
 
 I am now looking to continue developing alongside like-minded individuals, in an environment that encourages continuous learning and innovation.
 
-### Core Competencies
+### Skills
 
 #### Software Development
 My love of coding began with self-directed online tutorials, but I wanted to accelerate my learning, and Makers Academy offered me that opportunity by distilling key principles and industry best practices into an intensive bootcamp.  *Follow links below to my github repositories.*
