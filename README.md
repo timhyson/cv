@@ -1,5 +1,5 @@
 ## Tim Hyson
-
+##### contact:  tjhyson@gmail.com  
 A junior developer who's embarking on a new career after 12 successful years in the film industry.  I studied code at Makers Academy and fell in love with software design and development.  I embrace test-driven development and pair programming as ways to uncover simple solutions to complex problems.   
 
 I am now looking to continue developing alongside like-minded individuals, in an environment that encourages continuous learning and innovation.
