@@ -1,10 +1,10 @@
-## Tim Hyson
+# Tim Hyson
 ##### contact:  tjhyson@gmail.com  
 A junior developer who's embarking on a new career after 12 successful years in the film industry.  I studied code at Makers Academy and fell in love with software design and development.  I embrace test-driven development and pair programming as ways to uncover simple solutions to complex problems.   
 
 I am now looking to continue developing alongside like-minded individuals, in an environment that encourages continuous learning and innovation.
 
-### Skills
+## Skills
 
 #### Software Development
 My love of coding began with self-directed online tutorials, but I wanted to accelerate my learning, and Makers Academy offered me that opportunity by distilling key principles and industry best practices into an intensive bootcamp.  *Follow links below to my github repositories.*
@@ -17,7 +17,7 @@ My love of coding began with self-directed online tutorials, but I wanted to acc
 After graduation, I was selected by Makers Academy to provide a first point of contact for students encountering technical problems.  This involves explaining complex ideas in simple terms, reinforcing my understanding in the process.
 
 #### Problem solving
-At what point does attention to detail become OCD?!  I have a logical and creative mindset, and helping others who are blocked has given me experience of reading and understanding someone else's code; an essential skill for bug hunting.
+At what point does attention to detail become OCD?!  I have a logical and creative mindset, and through helping others who are blocked I've gained experience reading and understanding someone else's code; an essential skill for bug hunting.
 
 #### Teamwork and collaboration
 Combining the self-motivation and self-discipline of a seasoned freelancer with the communication and easy compromise of a committed team worker.
