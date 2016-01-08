@@ -20,7 +20,7 @@ After graduation, I was selected by Makers Academy to provide a first point of c
 At what point does attention to detail become OCD?!  I have a logical and creative mindset, and through helping others who are blocked I've gained experience reading and understanding someone else's code; an essential skill for bug hunting.
 
 #### Teamwork and collaboration
-Combining the self-motivation and self-discipline of a seasoned freelancer with the communication and easy compromise of a committed team worker.
+Combining the self-motivation and self-discipline of a seasoned freelancer with the communication and easy compromise of a committed team worker.  Filming contracts tended to range from a few days to a few months, requiring the ability to hit the ground running on new projects with new faces.
 
 #### Responsive learning
 I'm quick to adapt to different approaches.  And learning to feel comfortable with the unknown.
