@@ -37,6 +37,9 @@ I'm quick to adapt to different approaches.  And learning to feel comfortable wi
 - BA(Hons.) Media Production, Business and French (2:1)
 - Included 12 months working as a technical translator in France
 
+#### St John's, Marlborough (1997 - 1999)
+- A-levels in Mathematics, Physics, French, Business German, General Studies  
+
 ## Work
 **Freelance camera technician** (2003 - 2015)  [(list of credits on IMDB.com)](http://www.imdb.com/name/nm2575314/?ref_=fn_al_nm_1)  
 Television dramas and feature films, from BBC and ITV to MGM and Universal.  Though seemingly unrelated, many commonalities exist - a team of individuals with a variety of specialisms collaborating on a project, adapting to change, troubleshooting issues before they arise and resolving them if they do.
